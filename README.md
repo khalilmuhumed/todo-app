@@ -14,7 +14,7 @@ This project was done individually, covering all aspects from design to implemen
 
 ---
 
-## Table of Contents
+## Table of Contents<>
 - [About The App](#about-the-app)
 - [Technologies](#technologies)
 - [Setup](#setup)
