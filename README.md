@@ -16,7 +16,6 @@ This project was done individually, covering all aspects from design to implemen
 
 ## Table of Contents
 - [About The App](#about-the-app)
-- [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Approach](#approach)
@@ -29,11 +28,6 @@ This project was done individually, covering all aspects from design to implemen
 ## About The App
 **Simple TODO App** is a minimalistic task management application built using only native JavaScript, HTML, and CSS. The app allows users to add, mark as completed, and remove tasks. Data persistence is handled using `localStorage`.
 
----
-
-## Screenshots
-[access my page](<Näyttökuva 2025-03-10 kello 13.24.01.png>)
-*Picture by Khalil Muhumed*
 
 ---
 
